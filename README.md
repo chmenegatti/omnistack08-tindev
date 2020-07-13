@@ -15,7 +15,7 @@ Tindev
 </p>
 
 <div>
-  <img src="https://github.com/chmenegatti/omnistack08-tindev/blob/master/images/tindev.png" alt="demo-web" height="425">
+  <img src="https://github.com/chmenegatti/omnistack08-tindev/blob/master/images/tindev.png" alt="demo-web" height="425" align="center">
 </div>
 
 <hr />
