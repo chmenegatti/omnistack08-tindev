@@ -32,7 +32,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## 01. Getting started
 
-1. Clone this repo using `git clone git@github.com:CarlosLevir/tindev.git`
+1. Clone this repo using `https://github.com/chmenegatti/omnistack08-tindev.git`
 2. Move yourself to the appropriate directory: `cd tindev`<br />
 3. Run `yarn` to install dependencies<br />
 
